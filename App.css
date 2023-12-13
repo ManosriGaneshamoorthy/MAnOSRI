@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/SAKGwKC/medical-background-with-loop_n26ve-_yg_thumbnail-1080_05.png');
+  background-size: cover;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  height: 100vh;
+  width: 2000px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  max-width: 600px;
+  background-color: #11111377; /* Change to your desired color */
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.form-wrapper {
+  background: rgba(233, 239, 242, 0.8);
+  padding: 30px;
+  border-radius: 9px;
+  box-shadow: 0px 0px 10px 0px rgba(98, 91, 91, 0.1);
+}
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 3px;
+}
+
+.form-control {
+  width: 90%;
+  padding: 6px;
+}
+
+.btn-submit {
+  background: #087ab3;
+  color: rgb(236, 229, 229);
+  border: none;
+  padding: 10px 20px;
+  font-size: 13px;
+  border-radius: 5px;
+  cursor:all-scroll;
+}
